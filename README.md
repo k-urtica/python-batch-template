@@ -31,6 +31,12 @@
 
 ## セットアップ & 実行
 
+**.env ファイル作成**
+
+```
+SLACK_WEBHOOK=<your slack webhook url>
+```
+
 ```Bash
 # install package from pipfile.lock
 pipenv sync --dev
