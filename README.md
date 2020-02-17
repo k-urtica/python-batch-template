@@ -47,3 +47,10 @@ pipenv shell
 # execute batch
 python sample_batch.py
 ```
+
+## 👀 Author
+
+👤 **K**
+
+- Twitter: [@k_urtica](https://twitter.com/k_urtica)
+- Github: [@k-urtica](https://github.com/k-urtica)
